@@ -3,7 +3,7 @@
 Learning git hub via freecodecamp.
 
 
-## subheaer 
+## subheader
 
 following youtube video
 
